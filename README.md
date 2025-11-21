@@ -23,8 +23,7 @@
 
 
 
-<!-- Greeting -->
-<h2 align="center">❂ I am Mohamed Bourawi Bouaziz</h2>
+
 
 
 
@@ -56,7 +55,7 @@
 <h3>🧲 Connect with Me:</h3>
 <div align="center">
   <a href="mailto:mohamed12bouaziz@gmail.com"><img width="55px" src="https://github.com/bourawi12/bourawi12/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-bouaziz-ba4219291" target="_blank"><img width="55px" src="https://github.com/bourawi12/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-bouaziz-ba4219291" target="_blank"><img width="55px" src="https://github.com/bourawi12/bourawi12/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@coderaw-l8z" target="_blank"><img width="57px" src="https://github.com/bourawi12/bourawi12/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
@@ -86,16 +85,18 @@
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
   <p align="center">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Computer-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Computer-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Web-Development">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/bourawi12/donation-system-for-tunsian-chemical-group">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bourawi12&repo=donation-system-for-tunsian-chemical-group&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
+    </a>
+    <a href="https://github.com/bourawi12/laravel2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bourawi12&repo=laravel2&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
+    </a>
+    <a href="https://github.com/bourawi12/THREE-JS-PROJECT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bourawi12&repo=THREE-JS-PROJECT&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
+    </a>
   </p>
 </div>
+
 
 
 <!-- Tech Stack -->
@@ -120,13 +121,6 @@
 
 <br/>
 
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 <!-- Ending -->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
@@ -135,7 +129,5 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-<p align="center">
-  ⚠️ This README is uniquely designed by <strong>Joshua Thadi</strong>.
-</p>
+
 

@@ -94,8 +94,12 @@
     <a href="https://github.com/bourawi12/THREE-JS-PROJECT">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bourawi12&repo=THREE-JS-PROJECT&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
     </a>
+    <a href="https://github.com/bourawi12/DjangoRestFramework-Auth">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bourawi12&repo=DjangoRestFramework-Auth&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" />
+    </a>
   </p>
 </div>
+
 
 
 

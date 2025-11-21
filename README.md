@@ -21,31 +21,28 @@
 </p>
 -->
 
-<!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto" />
-</a>
+
 
 <!-- Greeting -->
-<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+<h2 align="center">❂ I am Mohamed Bourawi Bouaziz</h2>
 
 
 
 <div align="center">
   <!-- Profile Views -->
-  <a href="https://github.com/JoshuaThadi" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  <a href="https://github.com/bourawi12" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=bourawi12&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
   <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+  <a href="https://github.com/bourawi12?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/bourawi12?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
   <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+  <a href="https://github.com/bourawi12?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/bourawi12?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+<img align="left" alt="coding-gif" width="400" src="https://github.com/bourawi12/bourawi12/blob/main/transparent_gitgif.gif" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
@@ -58,11 +55,9 @@
 
 <h3>🧲 Connect with Me:</h3>
 <div align="center">
-  <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="mailto:mohamed12bouaziz@gmail.com"><img width="55px" src="https://github.com/bourawi12/bourawi12/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-bouaziz-ba4219291" target="_blank"><img width="55px" src="https://github.com/bourawi12/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@coderaw-l8z" target="_blank"><img width="57px" src="https://github.com/bourawi12/bourawi12/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
 <br/>
@@ -70,8 +65,8 @@
 <!-- GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=bourawi12&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=bourawi12&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <br/>

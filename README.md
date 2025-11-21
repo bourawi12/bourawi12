@@ -46,11 +46,12 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Blockchain Development, etc.<br>
+  🌱 Software Engineering student passionate about full-stack development and scalable web applications.<br>
+  🔭 Worked on 3D interactive platforms with Three.js and backend systems using Django REST Framework.<br>
+  💬 Experienced with modern frameworks such as React, Angular, Laravel, and AI-powered integrations.<br>
+  ⚡ Interested in Cloud Computing, AI/ML, Automation, and innovative digital solutions.<br>
 </p>
+
 
 <h3>🧲 Connect with Me:</h3>
 <div align="center">
